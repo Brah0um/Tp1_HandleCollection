@@ -5,7 +5,7 @@
  */
 package tp1;
 
-import tp1.jFrame.JFrameMain;
+import tp1.controller.JFrameMain;
 
 /**
  *
