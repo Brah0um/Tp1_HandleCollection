@@ -6,4 +6,4 @@
 4. Run Project (F6)
 
 ### NB :
-Create a **MySql database** named __time-to-cook__ or change the **META-INF/persistence.xml** for your own config.
+Create a **MySql database** named _time-to-cook_ or change the **META-INF/persistence.xml** for your own config.
